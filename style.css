@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-color:#d2dae2;
+  font-family: Georgia, serif;
+}
+.headersection{
+    padding: 20px;
+}
+.headersection h1{
+    font-family: serif;
+}
+input{
+    padding: 12px;
+    border-radius: 5px;
+}
+.index{
+    padding: 8px;
+    border-radius: 5px;
+    background-color:#5f27cd;
+    color: #fff;
+}
+.index1{
+    padding: 8px;
+    border-radius: 5px;
+    background-color:#5f27cd;
+    color: #fff;
+}
+.bodysection{
+
+}
